@@ -1,6 +1,6 @@
 package com.domain.lesson7.farm;
 
 public interface PickUping {
-    void pickup ( Farmer animals);
+    void pickup(DomesticAnimal domesticAnimal);
 
 }

@@ -1,5 +1,5 @@
 package com.domain.lesson7.farm;
 
 public interface Feeding {
-    void feedAnimal (Farmer animal);
+    void feedAnimal(DomesticAnimal domesticAnimal);
 }
