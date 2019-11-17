@@ -1,4 +1,4 @@
-package com.domain.lesson9;
+package com.domain.homeWork;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
@@ -8,7 +8,7 @@ import java.time.temporal.ChronoUnit;
 import java.time.temporal.TemporalAdjusters;
 
 
-public class HomeWork {
+public class HomeWorkLesson9 {
     public static void main (String [] args){
         //1. Есть три рабочие смены:
         //с 7:00 до 15:00
