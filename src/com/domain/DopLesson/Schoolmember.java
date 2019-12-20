@@ -1,4 +1,4 @@
-package DopLesson;
+package com.domain.DopLesson;
 
 public class Schoolmember {
     //1- создание класса и свойства
@@ -19,7 +19,7 @@ public class Schoolmember {
     }
 
     public void setAge(int age) {
-        if (age <= 6 || age >= 65) return; //уловие, ретурн - прерывание не устраивающего условия
+        if (age <= 6 || age >= 65) return; //уcловие, ретурн - прерывание не устраивающего условия
         this.age = age;
     }
 
